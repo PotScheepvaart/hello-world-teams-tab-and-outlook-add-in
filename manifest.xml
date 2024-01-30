@@ -83,12 +83,12 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://potscheepvaart.github.io/hello-world-teams-tab-and-outlook-add-in/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="CommandsGroup.Label" DefaultValue="Contoso Add-in"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Hello world"/>
-        <bt:String id="TaskpaneButton.SupertipTitle" DefaultValue="Hello world"/>
+        <bt:String id="CommandsGroup.Label" DefaultValue="Pot Scheepvaart Add-in"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="Email Snippets"/>
+        <bt:String id="TaskpaneButton.SupertipTitle" DefaultValue="Email Snippets"/>
       </bt:ShortStrings>
       <bt:LongStrings>
-        <bt:String id="TaskpaneButton.SupertipText" DefaultValue="Open the Hello world add-in"/>
+        <bt:String id="TaskpaneButton.SupertipText" DefaultValue="Open the Email Snippets Add-In"/>
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
