@@ -26,7 +26,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://potscheepvaart.github.io/hello-world-teams-tab-and-outlook-add-in/taskpane.html"/>
+        <SourceLocation DefaultValue="https://potscheepvaart.github.io/hello-world-teams-tab-and-outlook-add-in/taskpane.php"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -80,7 +80,7 @@
         <bt:Image id="Icon.80x80" DefaultValue="https://potscheepvaart.github.io/hello-world-teams-tab-and-outlook-add-in/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://potscheepvaart.github.io/hello-world-teams-tab-and-outlook-add-in/taskpane.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://potscheepvaart.github.io/hello-world-teams-tab-and-outlook-add-in/taskpane.php"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="CommandsGroup.Label" DefaultValue="Pot Scheepvaart Add-in"/>
